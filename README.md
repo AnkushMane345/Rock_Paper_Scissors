@@ -7,7 +7,16 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 
 ## 📸 Preview
 
-![Game Preview](https://via.placeholder.com/600x300?text=Rock+Paper+Scissors+Game)
+<img width="1919" height="863" alt="Screenshot 2026-03-23 112439" src="https://github.com/user-attachments/assets/1b70b816-c174-47a2-b488-a1f14a500e71" />
+
+---
+<img width="1919" height="865" alt="Screenshot 2026-03-23 112347" src="https://github.com/user-attachments/assets/ebef9088-096e-4935-bcca-f80a89a34b1a" />
+
+---
+<img width="1919" height="867" alt="Screenshot 2026-03-23 112408" src="https://github.com/user-attachments/assets/edd391c0-e411-4cb3-9507-e87bc60c88c6" />
+
+---
+<img width="1919" height="866" alt="Screenshot 2026-03-23 112427" src="https://github.com/user-attachments/assets/edb24d6d-caf6-4da9-928a-f335650c5bde" />
 
 ---
 
@@ -60,7 +69,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/AnkushMane345/rock-paper-scissors.git
 ```
 
 ### 2. Open the project
